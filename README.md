@@ -1,6 +1,6 @@
 # PurePengu's skin collection
 
-# WIP skins
+## WIP skins
 These are skins that i'm currently working on or planning to work on
 - Hakurei Reimu (Priority)
 - Touhou
