@@ -2,10 +2,10 @@
 This isn't all my skins I use, I'll add more later (yes i'm lazy)
 
 # WIP skins
-- Hakurei reimu
+- Hakurei Reimu
 - Touhou
 - Rem Re;Zero
-- Hatsune miku
+- Hatsune Miku
 
 # Mixed & other skins
 These are skins that other people have made or that i've mixed and made small assets for them
