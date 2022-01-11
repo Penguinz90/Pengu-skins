@@ -2,7 +2,7 @@
 This isn't all my skins I use, I'll add more later (yes i'm lazy)
 
 # WIP skins
-- Hakurei Reimu
+- Hakurei Reimu (Priority)
 - Touhou
 - Rem Re;Zero
 - Hatsune Miku
