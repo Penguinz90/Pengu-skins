@@ -1,5 +1,4 @@
-# PurePengu's skins
-These are skins that i've made (I'll add later cause i'm lazy)
+# PurePengu's skin collection
 
 # WIP skins
 These are skins that i'm currently working on or planning to work on
@@ -7,6 +6,9 @@ These are skins that i'm currently working on or planning to work on
 - Touhou
 - Rem Re;Zero
 - Hatsune Miku
+
+# My skins
+These are skins that i've made (I'll add later cause i'm lazy)
 
 # Mixed & other skins
 These are skins that other people have made or that i've mixed and made small assets for them (I'll add the rest later cause i'm lazy)
