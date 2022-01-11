@@ -4,7 +4,7 @@ This isn't all my skins I use, I'll add more later (yes i'm lazy)
 # WIP skins
 - Hakurei reimu
 - Touhou
-- Rem Re;zero
+- Rem Re;Zero
 - Hatsune miku
 
 # Mixed & other skins
