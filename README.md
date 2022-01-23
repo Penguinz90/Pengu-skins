@@ -3,9 +3,9 @@
 ## WIP skins
 These are skins that i'm currently working on or planning to work on
 - Hakurei Reimu (Priority)
-- Touhou
-- Rem Re;Zero
-- Hatsune Miku
+- Touhou (Planning)
+- Rem Re;Zero (Planning)
+- Hatsune Miku (Planning)
 
 ## My skins
 These are skins that i've made (I'll add later cause i'm lazy)
