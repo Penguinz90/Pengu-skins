@@ -11,7 +11,7 @@ These are skins that i'm currently working on or planning to work on
 These are skins that i've made (I'll add later cause i'm lazy)
 
 ## My half skins
-These are skins that only have in-game stuff skinned (soon I'll add)
+These are skins that only have in-game stuff skinned (I'll add later cause i'm lazy)
 
 ## Mixed & other skins
 These are skins that other people have made or that i've mixed and made small assets for them (I'll add the rest later cause i'm lazy)
