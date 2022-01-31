@@ -8,7 +8,7 @@ These are skins that i'm currently working on or planning to work on
 - Hatsune Miku (Planning)
 
 ## My complete skins
-These are skins that i've made (I'll add later cause i'm lazy)
+These are skins that i've fully completed (I'll add later cause i'm lazy)
 
 ## My half skins
 These are skins that only have in-game stuff skinned (I'll add later cause i'm lazy)
