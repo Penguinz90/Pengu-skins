@@ -2,10 +2,10 @@
 
 ## WIP skins
 These are skins that i'm currently working on or planning to work on
-- Hakurei Reimu (Priority)
-- Touhou (Planning)
-- Rem Re;Zero (Planning)
-- Hatsune Miku (Planning)
+- Hakurei Reimu (stopped temporarily)
+- Touhou (Planned)
+- Rem Re;Zero (Planned)
+- Hatsune Miku (Planned)
 
 ## My complete skins
 These are skins that i've fully completed (I'll add later cause i'm lazy)
