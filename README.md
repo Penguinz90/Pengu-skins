@@ -2,7 +2,8 @@
 
 ## WIP skins
 These are skins that i'm currently working on or planning to work on
-- Hakurei Reimu (stopped temporarily)
+- pastel (In progress)
+- Hakurei Reimu (on hold)
 - Touhou (Planned)
 - Rem Re;Zero (Planned)
 - Hatsune Miku (Planned)
