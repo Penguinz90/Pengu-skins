@@ -4,7 +4,7 @@
 These are skins that i'm currently working on or planning to work on
 - Pastel (on hold)
 - Hakurei Reimu (in progress)
-![](https://user-images.githubusercontent.com/76111977/155980783-5ccc1a51-9c15-484c-9718-499b2fd5fcae.png)
+## ![](https://user-images.githubusercontent.com/76111977/155980783-5ccc1a51-9c15-484c-9718-499b2fd5fcae.png)
 
 - Touhou (planned)
 - Rem Re;Zero (planned)
