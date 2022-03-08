@@ -21,8 +21,12 @@ These are skins that only have in-game stuff skinned (I'll add the rest later ca
 
 ## Mixed & other skins
 These are skins that other people have made or that i've mixed and made small assets for them (I'll add the rest later cause i'm lazy)
+### [-#sriracha+edit+HitLight#-](https://drive.google.com/u/0/uc?id=1f2v4mN2JJS6ObkwnuVcWKLd-N5BpHIm8&export=download)
+![](https://user-images.githubusercontent.com/76111977/157287497-d641a5bf-b4e8-44d0-b5aa-2ca656dc24b7.png)
 
 ### [**-#sriracha+edit+HitLight+404#-**](https://drive.google.com/u/0/uc?id=1NRAUsVSLtTr0qIFlqEvc79dqaVVCm3Qw&export=download)
+![](https://user-images.githubusercontent.com/76111977/157287437-a21123af-fa5f-4805-b2c3-ba06bed18401.png)
+
 ### [**jot_bab - edit**](https://drive.google.com/u/0/uc?export=download&confirm=-UD9&id=1cyM3STiL_zw95Raskcdv52zrmItQ-lQY)
 ![](https://user-images.githubusercontent.com/76111977/148859844-8d54b1b5-ae97-47e8-824d-8068936ada11.png)
 
