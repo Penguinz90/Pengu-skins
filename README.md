@@ -21,6 +21,9 @@ These are skins that only have in-game stuff skinned (I'll add the rest later ca
 
 ## Mixed & other skins
 These are skins that other people have made or that i've mixed and made small assets for them (I'll add the rest later cause i'm lazy)
+### [!GOTHIC LOLITA FEVER EDIT](https://drive.google.com/u/0/uc?id=1USe2niJYrFuAttS9djF1NN5Cl2aOHLj7&export=download)
+![](https://user-images.githubusercontent.com/76111977/158925653-ced73a06-7a8f-40e3-b987-38b21647e39a.png)
+
 ### [-#sriracha+edit+HitLight+Orange#-](https://drive.google.com/u/0/uc?id=1UPqUVCHKLzRl53fLmvIPnrHv9Sfvwh1C&export=download)
 ![](https://user-images.githubusercontent.com/76111977/157769618-6796dc6a-b0c9-407d-9cb6-ce83e662047d.png)
 
